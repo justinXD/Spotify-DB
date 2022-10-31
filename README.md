@@ -1,5 +1,5 @@
 # Spotify-DB
-My version of the Spotify DB system, made with sql Server.
+My version of the Spotify DB tables and SP's, made it with sql Server.
 I made it as a practice when I was accepted as an intern at [ADAGIO INFORMATICA INTEGRAL SC](https://adagio.com.mx/)
 
 
